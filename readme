@@ -1,0 +1,58 @@
+# 🎭 Terra Aletia Régie
+
+Application web de régie plateau pour le spectacle **Terra Aletia**.
+
+## Objectif
+
+Remplacer les feuilles papier par une application simple permettant de gérer :
+
+- les accessoires ;
+- les scènes ;
+- le check-up avant spectacle ;
+- les changements de scène ;
+- les emplacements sur le plateau.
+
+## Fonctionnalités prévues
+
+### 📦 Accessoires
+
+- Ajouter un accessoire
+- Modifier un accessoire
+- Photo
+- Quantité disponible
+- Emplacement de stockage
+
+### 🎬 Scènes
+
+Chaque scène contient :
+
+- Accessoires à installer
+- Accessoires à retirer
+- Accessoires à déplacer
+- Remarques
+- Plan du plateau
+
+### ✅ Check-up
+
+Avant le spectacle :
+
+- Vérification des accessoires
+- Vérification des quantités
+- Validation du plateau
+
+### ▶ Mode Spectacle
+
+Affichage plein écran :
+
+- À installer
+- À retirer
+- À déplacer
+- Bouton "Scène suivante"
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+Version 0.1
